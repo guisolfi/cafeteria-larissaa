@@ -1,0 +1,52 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Estilo para o cabeçalho principal */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 20px; }
+/* Estilo para subtítulos */
+h2 {
+    color:rgb(68, 240, 0)
+    border-bottom: 42px solid #dddddd;
+    padding-bottom: 5px;
+    margin: 20px 0 10px;
+}
+
+/* Estilo para listas */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Estilo para parágrafos */
+p {
+    margin: 10px 0;
+}
+
+/* Estilo para o layout geral */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
